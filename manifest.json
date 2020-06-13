@@ -1,0 +1,21 @@
+{
+    "name": "Inject_js_for_Solo",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "Injecting scripts to use hotkey to call 'Solo', 'draw', 'pass' in the Solo game",
+    "homepage_url": "http://google.com",
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": true
+    },
+    "browser_action": {
+        "default_title": "HanSolo!"
+    },
+    "permissions": [
+        "https://*/*",
+        "http://*/*",
+        "activeTab"
+    ]
+}
