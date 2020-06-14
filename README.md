@@ -15,7 +15,7 @@ When enabled, you'll see something like this:
 
 # Installation
 
-1. Install Tempermonkey (Firefox or Chrome) extension.
+1. Install Tampermonkey (Firefox or Chrome) extension.
 
 2. Click [this link](https://raw.githubusercontent.com/chainsawriot/hansolo/master/hansolo.user.js) to install the userscript.
 
