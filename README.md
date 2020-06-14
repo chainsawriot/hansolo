@@ -7,7 +7,7 @@ Keyboard shortcuts:
 * Left shift - Solo
 * Left Ctrl - close, confirm, pass, draw
 
-You need to click the card or the "Play" button for the card you have just drawn.
+To prevent making mistakes, You need to click the card or the "Play" button for the card you have just drawn.
 
 When enabled, you'll see something like this:
 
