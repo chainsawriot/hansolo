@@ -16,7 +16,7 @@ function click_ignore(button_css) {
 function forward () {
   // click #button_confirm #button_draw #button_pass
   // in this precedent order
-  ["#button_confirm", "#button_draw", "#button_pass"].forEach(button_css => click_ignore(button_css))
+  ["#close_btn", "#button_confirm", "#button_draw", "#button_pass"].forEach(button_css => click_ignore(button_css))
 }
 
 window.addEventListener("keydown", function(e) {
